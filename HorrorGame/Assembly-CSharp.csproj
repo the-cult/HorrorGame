@@ -60,7 +60,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\My Assets\Scripts\ColorManager.cs" />
     <Compile Include="Assets\My Assets\Scripts\Interaction.cs" />
+    <Compile Include="Assets\My Assets\Scripts\KeyHoleManager.cs" />
+    <Compile Include="Assets\My Assets\Scripts\KeyHoleOperation.cs" />
+    <Compile Include="Assets\My Assets\Scripts\KeyManager.cs" />
+    <Compile Include="Assets\My Assets\Scripts\MainMenuController.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scenes\Scripts\TestScript.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\AmbienceEmitter.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\AudioManager.cs" />
